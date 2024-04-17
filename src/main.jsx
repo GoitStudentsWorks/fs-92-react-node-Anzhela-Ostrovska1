@@ -16,7 +16,7 @@ root.render(
       <ThemeProvider theme={theme.lightTheme}>
         <Global styles={GlobalStyles} />
 
-        <BrowserRouter basename="/goit-group2-react-nodejs">
+        <BrowserRouter basename="/fs-92-react-node-Anzhela-Ostrovska1">
           <App />
         </BrowserRouter>
       </ThemeProvider>
