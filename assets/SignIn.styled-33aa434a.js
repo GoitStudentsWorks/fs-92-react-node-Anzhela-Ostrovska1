@@ -1,4 +1,4 @@
-import{n as A,E as i,G as t,H as o,I as a,j as n,T as r}from"./index-4f74fc4a.js";import{b as s}from"./bg_element_des@1x-82ed4fe0.js";import{b as d}from"./bg_element_des@2x-af4760d3.js";const l="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_bottle_signin_mob@1x-fad615a5.png",p="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_bottle_signin_mob@2x-ada1b009.png",c="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_signin_des@1x-7ec0cc57.png",g="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_signin_des@2x-f16bac49.png",k=A.div`
+import{n as A,E as i,G as t,H as o,I as a,j as n,T as r}from"./index-3fa1113d.js";import{b as s}from"./bg_element_des@1x-82ed4fe0.js";import{b as d}from"./bg_element_des@2x-af4760d3.js";const l="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_bottle_signin_mob@1x-fad615a5.png",p="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_bottle_signin_mob@2x-ada1b009.png",c="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_signin_des@1x-7ec0cc57.png",g="/fs-92-react-node-Anzhela-Ostrovska1/assets/bg_signin_des@2x-f16bac49.png",k=A.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
